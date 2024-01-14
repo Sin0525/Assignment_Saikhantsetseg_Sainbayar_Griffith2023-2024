@@ -1,5 +1,5 @@
 # This .gitignore file should be placed at the root of your Unity project directory
-#
+**/com.unity.ai.navigation@1.1.4/Samples~/Scripts/ProjectSettingsUtilities/Editor/Unit
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /[Ll]ibrary/
@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
