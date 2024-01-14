@@ -2,3 +2,4 @@ This game is a horror game, and the player needs to find the way out of the pris
 I downloaded my assets from UnityStore, and the photos in my directory were downloaded from Google. Also, the characters are downloaded from Google. All the scripts and logical actions are created like the game "Outlast." 
 
 Here is the video of my Final Game playing. https://www.youtube.com/watch?v=ZXTmxHjzG0g
+Repository link: https://github.com/Sin0525/Assignment_Saikhantsetseg_Sainbayar_Griffith2023-2024/tree/af2d6a2a3d5671dc30924b9a4c1f698eba69d81f/Griffith23-Saikhantsetseg
