@@ -1,0 +1,4 @@
+This game is a horror game, and the player needs to find the way out of the prison. To do that, the player needs to explore the prison to find the keys. Also, the player can talk to the characters in the game; some of them will give you a hint, but some of the characters can kill you. If you die, you'll wake up in a small room, and you go back to the previous place by lying on the bed in the room. 
+I downloaded my assets from UnityStore, and the photos in my directory were downloaded from Google. Also, the characters are downloaded from Google. All the scripts and logical actions are created like the game "Outlast." 
+
+Here is the video of my Final Game playing. https://www.youtube.com/watch?v=ZXTmxHjzG0g
